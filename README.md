@@ -11,7 +11,7 @@ Download the latest version for your platform from the [Releases](https://github
 ### Supported Platforms
 
 - ✅ **macOS Intel (x64)** - Available now
-- ⏳ **macOS Apple Silicon (M1/M2/M3)** - Coming soon
+- ⏳ **macOS Apple Silicon (M1/M2/M3)** - Available now
 - ⏳ **Linux (AppImage/deb)** - Coming soon
 - ⏳ **Windows** - Coming soon
 
