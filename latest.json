@@ -1,19 +1,23 @@
 {
   "version": "1.0.0",
   "notes": "Siovos Desktop v1.0.0 ",
-  "pub_date": "2026-01-08T18:37:20Z",
+  "pub_date": "2026-01-27T01:22:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/Timsctt/siovos-releases/releases/download/v1.0.0/Siovos.Desktop.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclk0eUV0QXRTZWkvNTN5UE9QTFVyRDYva2VmUGUxTnF5NElCNGpKNCsxb1k3QW9MempBSitnRFR4TElqWkVmcmpwVldaaEloZTdDdW9iZ2N3cWdGZVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODk3MDk1CWZpbGU6U2lvdm9zIERlc2t0b3AuYXBwLnRhci5negpvUDV5UWNLU0NpbXhxeW1KTlYvMkQwUmtOVlR2Z3dNd09GUXhzQ0tiZkJoQVBKV01sZUFCKzhFdmFjYUFuTjdSZldXamdoNjJkWmRpdHJCSE00dDlCQT09Cg=="
+      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.0/Siovos.Desktop.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclYrd1lNcC9xaFhoS3FLVjEycGN6anBudTBVdENNcys1WWVOUjFjS044Ym9oOTBNVnRrK21rVU9hOUp4cmlzSldxNy8xUWYxUG1IT3lVK1llRHk1NmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDc2MzU5CWZpbGU6U2lvdm9zIERlc2t0b3AuYXBwLnRhci5negozVXV3WS9ZditXRVgzZWxYbDJ5QklQLzBUalpKYk83UU4wNlpXaGVYdFEyQmFYemhsb1U2R0pRa1hOa0tQY1d1UjZWbUUvT3BTdjhKUi9zd2J3YmtDZz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/Timsctt/siovos-releases/releases/download/v1.0.0/Siovos.Desktop.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclk0eUV0QXRTZWkvNTN5UE9QTFVyRDYva2VmUGUxTnF5NElCNGpKNCsxb1k3QW9MempBSitnRFR4TElqWkVmcmpwVldaaEloZTdDdW9iZ2N3cWdGZVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODk3MDk1CWZpbGU6U2lvdm9zIERlc2t0b3AuYXBwLnRhci5negpvUDV5UWNLU0NpbXhxeW1KTlYvMkQwUmtOVlR2Z3dNd09GUXhzQ0tiZkJoQVBKV01sZUFCKzhFdmFjYUFuTjdSZldXamdoNjJkWmRpdHJCSE00dDlCQT09Cg=="
+      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.0/Siovos.Desktop.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclYrd1lNcC9xaFhoS3FLVjEycGN6anBudTBVdENNcys1WWVOUjFjS044Ym9oOTBNVnRrK21rVU9hOUp4cmlzSldxNy8xUWYxUG1IT3lVK1llRHk1NmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDc2MzU5CWZpbGU6U2lvdm9zIERlc2t0b3AuYXBwLnRhci5negozVXV3WS9ZditXRVgzZWxYbDJ5QklQLzBUalpKYk83UU4wNlpXaGVYdFEyQmFYemhsb1U2R0pRa1hOa0tQY1d1UjZWbUUvT3BTdjhKUi9zd2J3YmtDZz09Cg=="
     },
     "linux-x86_64": {
-      "url": "https://github.com/Timsctt/siovos-releases/releases/download/v1.0.0/Siovos.Desktop_1.0.0_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclJRRkJ6Vk0rSXo4QXIyaGNCZFlycGVjaFI4c2ZrenFkdEhrZVpxRnNVTnJ6dVJDTUQ1OHpLUTlpVmN5SC9yZFFLYnVjK0M3Q0JiM0VlbDA1SFJ5UGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODk3Mzg1CWZpbGU6U2lvdm9zIERlc2t0b3BfMS4wLjBfYW1kNjQuQXBwSW1hZ2UKNHlXazRBb2tMV3NZK0xuRmdCUGQxdXRWTlJZaE5DekttdUpodDRjRXF0dXBwODhlSGxuQ2xZVlEvYXZBRWNYcGFlNnh2UFRYbjJ4dWdWY01waGIzQ1E9PQo="
+      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.0/Siovos.Desktop_1.0.0_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclcyQjZmcDh5bUMzY1VmdE95YnhXVEI5YkZaNEdWelA4MDBOYjFFb1MrK2ZVcUQwVXJ1b1FZN082NjF2QjY3blZLT2M5dGg1Z2hTeFo0Q0tSWmhXakFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDc2NjEwCWZpbGU6U2lvdm9zIERlc2t0b3BfMS4wLjBfYW1kNjQuQXBwSW1hZ2UKTWEzVk1wcEpLVlRSZWVjUWVTSG9xeS8rZkhLQ3JDV0htelFjMUgwekZnZGtFN3VGUVRPbXdVazE5eTFyTUxWSWQ2WDVVcnN3KzZ6TUxZU09BRk44QkE9PQo="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.0/Siovos.Desktop_1.0.0_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclZCRlVJODYvYmh4OGdzQ08rbklJQVI5ejdpSW90ZmxtY2Y0elRUZTY2K2x0amZXZlNkckJhNEg1S0FpSUZWWWpjSzJoQlYrL3JUdnJBTVovMUhMeFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDc2OTI4CWZpbGU6U2lvdm9zIERlc2t0b3BfMS4wLjBfeDY0X2VuLVVTLm1zaQpoU01JUUxGRHAxZDYySjZHRWhuOXlHUjk3M3ozWG02M2dMbEZFa1JoNXhXWkdkZDR1VUU4dDV2MUNSR0E1QmFwajBnSGNacTlrUW1sK0wxUkhGV3hBdz09Cg=="
     }
   }
 }
