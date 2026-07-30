@@ -1,23 +1,23 @@
 {
-  "version": "1.0.0",
-  "notes": "Siovos Desktop v1.0.0 ",
-  "pub_date": "2026-05-31T22:05:34Z",
+  "version": "1.0.1",
+  "notes": "Siovos Desktop v1.0.1 ",
+  "pub_date": "2026-07-30T15:24:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.0/Siovos.Desktop.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclNaYytYZzgvY2N6bUk1TGl4QWthUStqUSswZXZ5dnIrSG1kNG4rTUlyQWdNOUJsdlpCYkd4cSt4OG5PcVRISUNXbzlIeXdadEF4L1JYVlhEZnVtWWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY0NzkyCWZpbGU6U2lvdm9zIERlc2t0b3AuYXBwLnRhci5negpRSy9uRGVOa2M3WWdRVUFMZm9Lb3RHMUxOTmJxRXYvT1Fla2RGUVorVHoweXU4MUx3K3VvUmhLNHVoSncvUWlKY0ZCV3EwQ1ZIbGlYblZTVXYzQnVCZz09Cg=="
+      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.1/Siovos.Desktop.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHcmRFM1hjS2lKUGw0UTJUbUdnSjBZTWVWTGQ1N3RaRzNpenNad1o1Tlg0TlhvckV5MEtNV1ZhU0VHM3EySnBtK1FyOUNtUmYzRS9aSzQrMkx1cCtCekFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDI0OTg4CWZpbGU6U2lvdm9zIERlc2t0b3AuYXBwLnRhci5negpIS01PQ0FzTUc3Vnl5RzQzOEhvWEdrTHkxVmJaVUVENGVpazMwMERDaTRHaFVqM2R4ekhFczhQa05EVmpsVWd5RVdkc3VMWGcrSHozZ2pEaG9ybmNEZz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.0/Siovos.Desktop.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclNaYytYZzgvY2N6bUk1TGl4QWthUStqUSswZXZ5dnIrSG1kNG4rTUlyQWdNOUJsdlpCYkd4cSt4OG5PcVRISUNXbzlIeXdadEF4L1JYVlhEZnVtWWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY0NzkyCWZpbGU6U2lvdm9zIERlc2t0b3AuYXBwLnRhci5negpRSy9uRGVOa2M3WWdRVUFMZm9Lb3RHMUxOTmJxRXYvT1Fla2RGUVorVHoweXU4MUx3K3VvUmhLNHVoSncvUWlKY0ZCV3EwQ1ZIbGlYblZTVXYzQnVCZz09Cg=="
+      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.1/Siovos.Desktop.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHcmRFM1hjS2lKUGw0UTJUbUdnSjBZTWVWTGQ1N3RaRzNpenNad1o1Tlg0TlhvckV5MEtNV1ZhU0VHM3EySnBtK1FyOUNtUmYzRS9aSzQrMkx1cCtCekFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDI0OTg4CWZpbGU6U2lvdm9zIERlc2t0b3AuYXBwLnRhci5negpIS01PQ0FzTUc3Vnl5RzQzOEhvWEdrTHkxVmJaVUVENGVpazMwMERDaTRHaFVqM2R4ekhFczhQa05EVmpsVWd5RVdkc3VMWGcrSHozZ2pEaG9ybmNEZz09Cg=="
     },
     "linux-x86_64": {
-      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.0/Siovos.Desktop_1.0.0_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclNEM1VCWjNIYjc3N0dYekJHZEUwWWJPMXkveWxHUXdoR1RpNGN3eFJFOUxrUEhpc0RQSG8yVG81OThkbW13RC9OSWJMa1I5U0c3UE5wRzdQampUQWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY0NjEyCWZpbGU6U2lvdm9zIERlc2t0b3BfMS4wLjBfYW1kNjQuQXBwSW1hZ2UKbTFIUEVvdCs4SVQyU1VsYnloeVprZ3BBSjFGZDNRUXFkUGlXOGt1ejVidXEvR1ZtV21VMUNzSUtoM0FsMkV3aUF0WjhDbUR3dGNVOVlIc2hRNTVTQmc9PQo="
+      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.1/Siovos.Desktop_1.0.1_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHcmVJMDBrUnp4VDhzNnhnWWIwMzVZUUFVKzZRM2ZDZDdGNVVFVW4wejVqUk9zRC9Pd0Y0RHBFVUhNaEJ5Q3VYUkJCSmZRMERaMWlmVkl1eU5sWTlrdEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDIyNjQ1CWZpbGU6U2lvdm9zIERlc2t0b3BfMS4wLjFfYW1kNjQuQXBwSW1hZ2UKc1o3MFE4Sm9KVWVIR0FTT1JreXU4dWR3TWUrTmVQZmNDZ3Y5NVlYTi9qWEdrV1dwd0RmbTV6dlFUblRlWTNhdEVOMWdSM0FqVFpWaFR2NGR4OTFOQUE9PQo="
     },
     "windows-x86_64": {
-      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.0/Siovos.Desktop_1.0.0_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHclo1VFRMMURCUnAxYmVjYkJrbzZXelRpSkcyYlRYR0t2dG9jdWQxamhHejlJL091SVJuOU5ocEpLU3ZxVnc3a0sya0FxeHJUYXIwQ2pQdTF4QVBiMXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY1MDcwCWZpbGU6U2lvdm9zIERlc2t0b3BfMS4wLjBfeDY0X2VuLVVTLm1zaQpPbnUwRS9MK3drbkxWYnBXZWRYSHRkK0pwdUZJNEIyVnNHd2NnYWI5dGZWQ0FUcEtHcnFTT1JWejE1L2d4S2NZcGVPL1ZRN0pXajZobjIyMnh6QjhEZz09Cg=="
+      "url": "https://github.com/siovos/siovos-releases/releases/download/v1.0.1/Siovos.Desktop_1.0.1_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeXl1NERRKzlHcmFVWjF3MGVlak1MdVdsVFcxc2djU01WYjU5clFhMGZSUnhKdHRRWitaMnd6M2pTb3NiK0FocG5rb3NtZ1Vjem5GQlpaZGJpL04wN0NTWWdsS2dWRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDIzMjA2CWZpbGU6U2lvdm9zIERlc2t0b3BfMS4wLjFfeDY0X2VuLVVTLm1zaQoyVEQvUk1JeXF0djd1YzVnNlhOdHh4K3V3bG84ZHhEaUh4czVZTXRVenhZajdLNEdIbGowTldvbGJTKzBhc1ljemoyWFNHamgyYkZnT3FTOUZtdGlEZz09Cg=="
     }
   }
 }
